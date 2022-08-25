@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+}
+.inp {
+    margin-left: 30%;
+    margin-top: 6% ;
+    display: flex;
+    position: relative;;
+
+}
+.inp input{
+    width: 190%;
+    font-size: 20px;
+    border-radius: 22px 5px 22px 5px;
+
+}
+.inp i{
+    position: absolute;
+    left: 72%;
+    top: 25%;
+    color: rgba(128, 128, 128, 0.623);
+}

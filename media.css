@@ -1,0 +1,9 @@
+@media screen and(max-width:300px){
+    .nav_img{
+        width: 0%;
+        height: 10vh;
+    }
+    .inp {
+        display: none;
+    }
+}
